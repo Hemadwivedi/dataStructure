@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fe48fe4-2505-43be-ae43-a95d34e3feac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hIX2uDCbt8E6zPrRDplc9VpCmz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.LinkedListTest">
+    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.ArrayListTest" />
+      <module name="arrayAndDataStructureProgramFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Complexity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Complexity" />
+      <module name="arrayAndDataStructureProgramFile" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.LinkedListTest" />
+      <module name="arrayAndDataStructureProgramFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="printArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="printArray" />
+      <module name="arrayAndDataStructureProgramFile" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="statricMethod2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="statricMethod2" />
+      <module name="arrayAndDataStructureProgramFile" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LinkedListTest" />
+        <item itemvalue="Application.ArrayListTest" />
+        <item itemvalue="Application.Complexity" />
+        <item itemvalue="Application.statricMethod2" />
+        <item itemvalue="Application.printArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fe48fe4-2505-43be-ae43-a95d34e3feac" name="Default Changelist" comment="" />
+      <created>1599699375200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599699375200</updated>
+      <workItem from="1599699378677" duration="6423000" />
+      <workItem from="1600117159460" duration="2575000" />
+      <workItem from="1600175669669" duration="1359000" />
+      <workItem from="1600262736505" duration="6831000" />
+      <workItem from="1600654032161" duration="5077000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2364" y="202" key="#Project_Structure" timestamp="1599699400819">
+      <screen x="1920" y="23" width="1680" height="1027" />
+    </state>
+    <state x="2364" y="202" key="#Project_Structure/0.23.1920.1057/1920.23.1680.1027@1920.23.1680.1027" timestamp="1599699400819" />
+    <state x="2344" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600313427288">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="424" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1599709181479" />
+    <state x="2344" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1600313427288" />
+    <state x="585" y="252" key="#com.intellij.ide.util.MemberChooser" timestamp="1600656627007">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="585" y="252" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1600656627007" />
+    <state x="2589" y="259" key="#com.intellij.ide.util.MemberChooser/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1600396058255" />
+    <state width="1638" height="270" key="GridCell.Tab.0.bottom" timestamp="1600657756647">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="270" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1600657756647" />
+    <state width="1878" height="280" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1599709765357" />
+    <state width="1638" height="270" key="GridCell.Tab.0.bottom/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1600396719953" />
+    <state width="1638" height="270" key="GridCell.Tab.0.center" timestamp="1600657756646">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="270" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1600657756646" />
+    <state width="1878" height="280" key="GridCell.Tab.0.center/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1599709765355" />
+    <state width="1638" height="270" key="GridCell.Tab.0.center/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1600396719952" />
+    <state width="1638" height="270" key="GridCell.Tab.0.left" timestamp="1600657756645">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="270" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1600657756645" />
+    <state width="1878" height="280" key="GridCell.Tab.0.left/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1599709765354" />
+    <state width="1638" height="270" key="GridCell.Tab.0.left/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1600396719951" />
+    <state width="1638" height="270" key="GridCell.Tab.0.right" timestamp="1600657756646">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="270" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1600657756646" />
+    <state width="1878" height="280" key="GridCell.Tab.0.right/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1599709765356" />
+    <state width="1638" height="270" key="GridCell.Tab.0.right/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1600396719952" />
+    <state width="1638" height="345" key="GridCell.Tab.1.bottom" timestamp="1600205436767">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1600205436767" />
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1599709736925" />
+    <state width="1638" height="345" key="GridCell.Tab.1.center" timestamp="1600205436767">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1600205436767" />
+    <state width="1878" height="357" key="GridCell.Tab.1.center/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1599709736924" />
+    <state width="1638" height="345" key="GridCell.Tab.1.left" timestamp="1600205436766">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1600205436766" />
+    <state width="1878" height="357" key="GridCell.Tab.1.left/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1599709736924" />
+    <state width="1638" height="345" key="GridCell.Tab.1.right" timestamp="1600205436767">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1600205436767" />
+    <state width="1878" height="357" key="GridCell.Tab.1.right/0.23.1920.1057/1920.23.1680.1027@0.23.1920.1057" timestamp="1599709736925" />
+    <state x="570" y="275" width="540" height="524" key="StructurePopup" timestamp="1600656121112">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="570" y="275" width="540" height="524" key="StructurePopup/0.23.1680.1027@0.23.1680.1027" timestamp="1600656121112" />
+    <state x="519" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1600654032411">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="519" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1600654032411" />
+    <state x="547" y="159" key="refactoring.ChangeSignatureDialog" timestamp="1600654244062">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="547" y="159" key="refactoring.ChangeSignatureDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1600654244062" />
+    <state x="456" y="244" width="670" height="676" key="search.everywhere.popup" timestamp="1600656096786">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="456" y="244" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1600656096786" />
+    <state x="2441" y="250" key="search.everywhere.popup/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1600395404507" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinarySearch.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/arrayAndDataStructureProgramFile$printArray.ic" NAME="printArray Coverage Results" MODIFIED="1600139605641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
